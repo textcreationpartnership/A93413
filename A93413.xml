@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The armies last propositions to the commons of England: wherein they declare, their further resolution, touching the confines of London, and their marching up towards the said city; for the setling of His Majesty in his royall palace at Westminster, and securing of the rights, liberties, and peace of the kingdome. June 28. 1647. Printed and published, to be communicated to the free-borne subjects within the kingdome of England, and principality of Wales.</title>
+            <author>Smith, Thomas, of St. Alban's.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93413</idno>
+            <idno type="STC">Wing S4230</idno>
+            <idno type="STC">Thomason E394_12*</idno>
+            <idno type="STC">ESTC R201627</idno>
+            <idno type="EEBO-CITATION">99862127</idno>
+            <idno type="PROQUEST">99862127</idno>
+            <idno type="VID">114276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114276)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[12*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The armies last propositions to the commons of England: wherein they declare, their further resolution, touching the confines of London, and their marching up towards the said city; for the setling of His Majesty in his royall palace at Westminster, and securing of the rights, liberties, and peace of the kingdome. June 28. 1647. Printed and published, to be communicated to the free-borne subjects within the kingdome of England, and principality of Wales.</title>
+                  <author>Smith, Thomas, of St. Alban's.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Simpson.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: St. Albanes June 26. 1647. Tho: Smith.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 28".</note>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Expulsion --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-05</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114276:1"/>
+            <pb facs="tcp:114276:1" rendition="simple:additions"/>
+            <p>THE
+ARMIES
+LAST
+PROPOSITIONS
+To the COMMONS of
+ENGLAND:
+WHEREIN THEY DECLARE,
+Their further Reſolution, touching the
+Confines of LONDON, and their marching up towards
+the ſaid City; for the ſetling of His Majeſty in
+His Royall Palace at Weſtminſter, and ſe<g ref="char:EOLhyphen"/>curing
+of the Rights, Liberties, and
+Peace of the KINGDOME.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>JUNE 28. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>PRinted and publiſhed, to be communicated to the Free-borne
+Subjects within the Kingdome of <hi>England,</hi> and Principa<g ref="char:EOLhyphen"/>lity
+of <hi>Wales.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON:
+Printe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for EDWARD SIMPSON. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114276:2"/>
+            <pb facs="tcp:114276:2"/>
+            <head>The laſt
+NEVVES
+FROM THE
+ARMIE</head>
+            <opener>
+               <salute>Kinde Sir,</salute>
+            </opener>
+            <p>THeſe are to <unclear>certifie</unclear> you, that part of
+our army quarters about Reading,
+Henly, Windſor, and thoſe parts, where we
+expect the reſt of our Forces, there to re<g ref="char:EOLhyphen"/>main
+(as I ſuppoſe) untill ſuch time, that an
+anſwer be returned from the Pa<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the late
+<pb facs="tcp:114276:3"/>
+Declaration or Remonſtrance of the Army,
+Wherein is declared, (in the name of the
+whole army) to the Kingdome of <hi>England,</hi>
+their candid intentions and reſolutione, and
+what their deſires are, as members of the
+Common-wealth, in behalf of themſelves &amp;
+all others, for the clearing, ſetling, and ſecu<g ref="char:EOLhyphen"/>ring
+of the Rights, Liberties, and peace of
+the Kingdome.</p>
+            <p>And it is further propoſed, to the hono<g ref="char:EOLhyphen"/>rable
+houſes of Parliament, as followeth:</p>
+            <p>1. That the Declaration inviting men to
+deſert the army and promiſing their arrears
+in caſe they do ſo, be forthwith recalled.</p>
+            <p>2. That his Maj coming to <hi>Richmond</hi> may
+be ſuſpended, untill things be better ſetled
+and compoſed; and in the meane time no
+place may be appointed for his Majeſties
+reſidence to be any nearer to <hi>London,</hi> then the
+army will allow the quarters of the army
+to be. 3. That the Members charged may be
+forth with ſuſpended the houſe 4. That thoſe
+that have deſerted the army may be inſtant<g ref="char:EOLhyphen"/>ly
+diſcharged and diſpierſt, and receive no
+more of their <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> till the army be firſt
+<pb facs="tcp:114276:3"/>
+ſatisfied. 5. That both Pa<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and City may be
+ſpeedily and effectually freed from thoſe
+multitudes of Reformadoes and other ſoul<g ref="char:EOLhyphen"/>diers
+that flock together about <hi>London,</hi> by a
+ſpeedy diſpatch and diſcharging of them
+from the City.</p>
+            <p>6. That all ſuch Liſtings, or raiſing of new Forces,
+or drawing together of any parties, and all preparati<g ref="char:EOLhyphen"/>ons
+towards a new war, may be effectually declared a<g ref="char:EOLhyphen"/>gainſt
+and ſuppreſſed, as alſo all invitations or endea<g ref="char:EOLhyphen"/>vours
+to draw in forraign Forces.</p>
+            <p>7. That the King may enjoy his juſt priviledges, and
+that mercy may be ſhewed to his Majeſties friends,
+who have formerly adhered to him.</p>
+            <p>Theſe Propoſitions are deſired to be forthwith prin<g ref="char:EOLhyphen"/>ted
+and publiſhed, for generall ſatisfaction of all free-born
+Subjects within the Kingdome of England, and
+Dominion of Wales.</p>
+            <p>For further particulars, I referre you to the enſuing
+Papers, wherein is ſet forth thei<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grievances and late
+Deſires of the Army. <hi>VIZ.</hi>
+            </p>
+            <p>Firſt, that being ſenſible of the ſub<g ref="char:EOLhyphen"/>tilty
+of the aforeſaid party, and having per<g ref="char:EOLhyphen"/>fectly
+diſcovered their private actions for
+contriving of a new war againſt this Army,
+who (by the Power of <hi>Heaven</hi>) hath beene
+the chiefe and inſtrumentall meanes of de<g ref="char:EOLhyphen"/>livering
+the people of <hi>England</hi> from per<g ref="char:EOLhyphen"/>petuall
+ſlavery; therefore, for the prevent<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:114276:4"/>
+of all conſpiracies and dangers that may
+ariſe tending to the prejudice of the P<gap reason="illegible: bleedthrough" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+of this Kingdome, it is declared in the name
+of the whole army, that they cannot <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+deſcend or yeeld to the votes of both Houſes
+of Parliament, touching the Guard expreſſed
+therein, but ſhall with all faithfulneſſe and
+diligence endeavour to preſerve his Maje<g ref="char:EOLhyphen"/>ſties
+Royall perſon from danger, and to that
+end hath appointed a competent number
+of faithfull, zealous, and religious men, choſe
+out of ſeverall Regiments in the army, to
+guard and ſecure his Majeſties perſon at his
+Court at <hi>Richmond.</hi>
+            </p>
+            <p>Secondly, that the army is ſenſible of the
+great malice and inveteracy of divers per<g ref="char:EOLhyphen"/>ſons
+againſt them, who indeavour to in<g ref="char:EOLhyphen"/>volve
+and embroyle this Nation in a new
+war, by which means, if once effected, would
+prove prejudiciall and deſtructive to the
+fundamental Lawes of this Kingdom, &amp; the
+liberty and propriety of the Subject.</p>
+            <p>Thirdly, that they have bin very active in
+ſeveral parts of the Kingdom, to raiſe forces
+and to that end hath endeavoured to re<g ref="char:EOLhyphen"/>poſſeſſe
+themſelves of divers ſtrong Holds,
+<pb facs="tcp:114276:4"/>
+throughout this Realm; as alſo their endea<g ref="char:EOLhyphen"/>vours,
+to raiſe a diviſion in the army, and to
+withdraw the hearts of the ſouldiers from
+the Officers, which indeed is a thing im<g ref="char:EOLhyphen"/>poſſible
+for thouſands to do, their hearts
+being ſo firmly knit and united together.</p>
+            <p>Fourthly, that ſo ſoon as they could have
+accompliſhed their wicked deſign, for ſet<g ref="char:EOLhyphen"/>ting
+of an Army on foot, their intents were
+to randezvou<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> near the City of <hi>W<gap reason="illegible: bleedthrough" extent="7+ letters">
+                     <desc>〈7… letters〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Fifthly, they further deſire that the
+Kings Majeſty may be reſtored to his for<g ref="char:EOLhyphen"/>mer
+Rights, and tryumphantly brought to
+his Royal Palace at White hall.</p>
+            <p>Laſtly, they profeſſe and declare to the Ci<g ref="char:EOLhyphen"/>tizens
+of <hi>London,</hi> that they have no evill in<g ref="char:EOLhyphen"/>tent
+againſt them, neither will they injure
+any, either by ſtopping of proviſion, or hin<g ref="char:EOLhyphen"/>dering
+of traffique, unleſſe they be forced &amp;
+conſtrained thereunto.</p>
+            <p>All which fore going Reaſons are declared to
+be the chiefe cauſe of the Armies neare approach
+towards the City of London.</p>
+            <p>Divers other particulars were propoun<g ref="char:EOLhyphen"/>ded,
+<hi>viz.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:114276:5"/>
+1. That they have not received a ſatisfa<g ref="char:EOLhyphen"/>ctory
+anſwer, touching their former Pap<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+and Repreſentations, humbly propoſed to
+the honourable Houſes of Parliament.</p>
+            <p>2. That Juſtice may be executed, and a
+legall tryall appointed for the Eleven Mem<g ref="char:EOLhyphen"/>bers,
+which now ſtands charged by the ar<g ref="char:EOLhyphen"/>my.</p>
+            <p>And thirdly, touching ſome ſouldiers be<g ref="char:EOLhyphen"/>longing
+to Sir <hi>Robert Pyes</hi> Regiment.</p>
+            <p>Divers Regiments of the army are upon
+their march towards <hi>Uxbridge,</hi> and ſo either
+to <hi>Kingſton</hi> or <hi>Windſor</hi> for a Head-quarter.
+God grant a happy concluſion of <hi>Englands</hi>
+diſtractions, and a good correſpondency be<g ref="char:EOLhyphen"/>twixt
+the Parliament, City, and army, that ſo
+Peace and truth may flouriſh within his
+Maieſties Realms and Dominions, which is
+the earneſt deſire of him, who remaines</p>
+            <closer>
+               <signed>Yours, to ſerve you, THO: SMITH.</signed>
+               <dateline>
+                  <hi>St.</hi> Albanes <date>June 26. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
